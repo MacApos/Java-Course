@@ -10,6 +10,9 @@ public class constructors {
 
         human1.drink();
 
+        String className = constructors.class.getName();
+        System.out.println(className);
+
     }
 
 }
