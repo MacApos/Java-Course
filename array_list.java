@@ -12,6 +12,7 @@ public class array_list {
         food.add("pizza");
         food.add("hamburger");
         food.add("hot-dog");
+        food.add("salad");
 
         food.set(0, "sushi");
         food.remove(2);
