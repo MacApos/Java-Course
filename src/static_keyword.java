@@ -10,7 +10,9 @@ public class static_keyword {
     Friends friend3 = new Friends("Sqidward");
     Friends friend4 = new Friends("Sandy");
 
-    Friends.displayFriends();
+    System.out.println(Friends.numberOffFriends);
+
+    // Friends.displayFriends();
 
     }
 
