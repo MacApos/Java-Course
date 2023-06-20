@@ -1,5 +1,6 @@
-/* Dynamic =    perform after compilation.
+/* Dynamic polymorphism =   perform after compilation.
  */
+
 
 import java.util.Scanner;
 
